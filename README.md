@@ -14,7 +14,7 @@ terminal-of-life is a simple implementation of Conway's Game of Life using the t
 2. Clone the repository or download the source code files.
 3. Navigate to the directory containing the source code files.
 4. Compile the program using the following command: `gcc terminal-of-life.c -o tol`
-6. Run the compiled executable: `tol`
+6. Run the compiled executable: `./tol`
 7. Enter a seed value when prompted to initialize the grid.
 8. Observe the Game of Life simulation running in the terminal window.
 9. To stop the simulation, use `Ctrl+C` to send the SIGINT signal.
