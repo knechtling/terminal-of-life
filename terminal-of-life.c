@@ -23,7 +23,7 @@ void print_grid(bool grid[HEIGHT][WIDTH]) {
     for (int i = 0; i < HEIGHT; i++) {
         for (int j = 0; j < WIDTH; j++) {
             if (grid[i][j]) {
-                printf("■");
+                printf("X");
             } else {
                 printf(" ");
             }
